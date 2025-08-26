@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-# Hi, Welcome 👋
 Welcome to Lab PKT GitHub profile! Laboratorium Pemodelan dan Komputasi Terapan.
 
 ## 📫 Contact
